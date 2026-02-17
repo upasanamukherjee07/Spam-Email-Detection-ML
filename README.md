@@ -32,3 +32,12 @@ The model achieves approximately **99% accuracy** on the test dataset.
 
 
 pip install -r requirements.txt
+
+
+## 📊 Model Output
+
+Below is a sample output of the trained spam detection model, including the classification report and example prediction.
+
+![Model Output](model_output.png)
+
+
